@@ -2,6 +2,12 @@
 
 A complete RAG (Retrieval-Augmented Generation) system for intelligent document search and question answering using local LLM models.
 
+## 🚀 Demo
+
+⚠️ **Note**: The [Hugging Face Space demo](https://huggingface.co/spaces/Viktor-Hirenko/rag-python-rag) is currently not functional due to limitations of the free tier Inference API. 
+
+**For a working demo, please run locally** - see installation instructions below.
+
 ## 🌟 Features
 
 - 📄 **Document Conversion**: Automatic conversion of PDF, DOCX, TXT files to markdown
